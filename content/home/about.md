@@ -10,7 +10,7 @@ widget: I am a PhD candidate in the Civil and Systems Engineering Department at
   optimization of lattice structures.  I am currently looking for a postdoctoral
   position where I can further develop my professional skills and value my
   research passion.
-widget_id: RECENT-POSTS
+widget_id: About me
 headless: true
 weight: 20
 title: Biography
